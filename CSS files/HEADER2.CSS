@@ -1,0 +1,22 @@
+.header2{
+    display:flex;
+    border-style: groove;
+    border: none;
+    background-color: white;
+    justify-content: center;
+    opacity: 0px;
+    margin-right: 0px;
+}
+
+.p1{
+    font-size:25px;
+    font-weight: bold;
+    font-family: arial;
+    color: rgb(0, 0, 0);
+}
+.imgJ , .imgI ,.imgH , .imgG ,.imgF , .imgE , .imgD ,.imgC , .imgB{
+    margin-left: 25px;
+}
+
+
+

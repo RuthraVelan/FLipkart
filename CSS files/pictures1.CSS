@@ -1,0 +1,95 @@
+
+ .PA1{
+    border: none;
+    background-color: white;
+    
+ }
+ .PA2{
+    justify-content: center;
+    height: 280px;
+    min-width: 1680px;
+    width: 100%;
+    left: 50%;
+    margin-left: 750px;
+    
+}
+ 
+
+ .pictures{
+    display:flex;
+    justify-content: center;
+    padding-top: 50px;
+ }
+ 
+.nameA{
+    margin-left: 10px;
+    font-size: 40px;
+    color: black;
+    font-family: arial;
+    font-weight: bold;
+}
+.nameB{
+    margin-left: 20px;
+    font-size: 40px;
+    color: black;
+    font-family: arial;
+    font-weight: bold;
+
+}
+.nameC{
+    font-size: 40px;
+    color: black;
+    font-family: arial;
+    font-weight: bold;
+}
+.pt{
+    border: none;
+    margin-left: 30px;
+    background-color: white;
+    
+}
+.T{
+    border: none;
+    background-color: gainsboro;
+    width: 420px;
+    
+}
+.N1{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.P3{
+    width: 300px;
+}
+.P2, .P3, .P4, .P5, .P6{
+    vertical-align: bottom;
+}
+.pt1{
+    border: none;
+    margin-left: 50px;
+    background-color: white;
+
+}
+.pictures2{
+    justify-content: center;
+    margin-top: 30px;
+    display: flex;
+    
+}
+.T1{
+    border: none;
+    background-color: gainsboro;
+    vertical-align:middle;
+    width: 300px;
+    height: 200px;
+
+}
+.P8, .P10, .P12, .P13, .P6{
+    vertical-align: bottom;
+    width: 250px;
+}
+
+
+
+
+  
